@@ -1,0 +1,43 @@
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: black;
+}
+
+.direction {
+    font-family: Times New Roman, serif;
+    font-size: 12px;
+    color: black;
+    background-color: lightgray;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.direction:hover {
+    background-color: lightblue;
+    color: white;
+}
+
+/* Character name classes */
+.Dr.Stockmann{
+    color: blue;
+}
+
+.Hovstad {
+    color: green;
+}
+
+.Aslaksen {
+    color: red;
+}
+.Petra{
+    color: maroon;
+}
+.Peter Stockmann{
+    color:aqua
+}
+.Billing{
+    color:darkgoldenrod
+}
+.Thomas{
+    color:greenyellow
+}
