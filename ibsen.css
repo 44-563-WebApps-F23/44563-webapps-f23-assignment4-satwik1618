@@ -19,7 +19,7 @@
 
 
 .Dr.Stockmann{
-    color: blue;
+    color: lawngreen;
 }
 
 .Hovstad {
@@ -32,12 +32,39 @@
 .Petra{
     color: maroon;
 }
-.Peter Stockmann{
-    color:aqua
+.PeterStockmann{
+    color:blueviolet;
 }
 .Billing{
-    color:darkgoldenrod
+    color:darkgoldenrod;
 }
 .Thomas{
-    color:greenyellow
+    color:yellow;
 }
+.ibsen-table th, .ibsen-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.ibsen-table th {
+    background-color: #f2f2f2;
+}
+
+.ibsen-table tbody tr:nth-child(even) {
+    background-color: blue;
+}
+
+.ibsen-table tbody tr:hover {
+    background-color:yellow;
+}
+.PeterStockmann:hover{ background-color: red (213, 30, 30);color:greenyellow;
+    text-shadow: 9px 1px 2px orange(6, 78, 38); filter: blur(1px);  border: 2px solid darkblue;
+}
+
+
+
+
+
+
+
